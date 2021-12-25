@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.atipune.testng.basics.Grouping2"/>
+      <class name="com.atipune.testng.basics.HomePage"/>
+      <class name="com.atipune.testng.basics.ExtentReportOfFacebook"/>
+      <class name="com.atipune.testng.basics.ExtentReport"/>
+      <class name="com.atipune.testng.basics.Grouping1"/>
+      <class name="com.atipune.testng.basics.TestNg12"/>
+      <class name="com.atipune.testng.basics.DataProvider12"/>
+      <class name="com.atipune.testng.basics.DataProvider89"/>
+      <class name="com.atipune.testng.basics.TestNgAnnotation"/>
+      <class name="com.atipune.testng.basics.DataProviderXl"/>
+      <class name="com.atipune.testng.basics.Parallel1"/>
+      <class name="com.atipune.testng.basics.Parallel2"/>
+      <class name="com.atipune.testng.basics.Parallel3"/>
+      <class name="com.atipune.testng.basics.ExcentReportOfFacebook45"/>
+      <class name="com.atipune.testng.basics.TestNgTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+    <line>
+      <![CDATA[running tc1]]>
+    </line>
+    <line>
+      <![CDATA[running tc2]]>
+    </line>
+    <line>
+      <![CDATA[running tc3]]>
+    </line>
+    <line>
+      <![CDATA[running tc4]]>
+    </line>
+    <line>
+      <![CDATA[running tc5]]>
+    </line>
+    <line>
+      <![CDATA[running tc6]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="106" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="106" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+      <class name="com.atipune.testng.basics.Demo2">
+        <test-method status="PASS" signature="TC4()[pri:0, instance:com.atipune.testng.basics.Demo2@53f65459]" name="TC4" duration-ms="5" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc4]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC4 -->
+        <test-method status="PASS" signature="TC5()[pri:0, instance:com.atipune.testng.basics.Demo2@53f65459]" name="TC5" duration-ms="2" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc5]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC5 -->
+        <test-method status="PASS" signature="TC6()[pri:0, instance:com.atipune.testng.basics.Demo2@53f65459]" name="TC6" duration-ms="5" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc6]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC6 -->
+      </class> <!-- com.atipune.testng.basics.Demo2 -->
+      <class name="com.atipune.testng.basics.Demo1">
+        <test-method status="PASS" signature="TC1()[pri:0, instance:com.atipune.testng.basics.Demo1@48503868]" name="TC1" duration-ms="12" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="TC2()[pri:0, instance:com.atipune.testng.basics.Demo1@48503868]" name="TC2" duration-ms="1" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc2]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC2 -->
+        <test-method status="PASS" signature="TC3()[pri:0, instance:com.atipune.testng.basics.Demo1@48503868]" name="TC3" duration-ms="2" started-at="2021-12-24T17:27:30 IST" finished-at="2021-12-24T17:27:30 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[running tc3]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+      </class> <!-- com.atipune.testng.basics.Demo1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
